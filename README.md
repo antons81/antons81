@@ -39,5 +39,5 @@ I build native Swift apps for macOS and iOS.
 
 ## 📬 Let's connect
 
-[![X](https://img.shields.io/badge/X-@anton__dev-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/anton__dev)
+[![X](https://img.shields.io/badge/@anton__dev-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/anton__dev)
 [![Telegram](https://img.shields.io/badge/Telegram-@anton__the__runner-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/anton_the_runner)
