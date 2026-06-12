@@ -13,7 +13,7 @@ I build native Swift apps for macOS and iOS.
 |-----|----------|-------|--------|
 | [**Port Monitor**](https://asoftlabs.app) — real-time TCP/UDP port monitor | macOS | SwiftUI, menu bar | ✅ Live |
 | [**Envio**](https://apps.apple.com/de/app/envio-env-manager/id6768711101?l=en-GB&mt=12) — .env file manager | macOS | SwiftUI, menu bar | ✅ Live |
-| [**MacReach**](https://apps.apple.com/de/app/macreach-remote-control/id6773302981?l=en-GB) — remote control | iOS + macOS | SwiftUI, Bonjour |🔍 ✅ Live|
+| [**MacReach**](https://apps.apple.com/de/app/macreach-remote-control/id6773302981?l=en-GB) — remote control | iOS + macOS | SwiftUI, Bonjour | ✅ Live|
 | [**Snippio**](https://apps.apple.com/de/app/snippio-dev-components/id6767014501?l=en-GB&mt=12) — Dev Components | macOS | SwiftUI |  ✅ Live |
 | [**Pasty**](https://apps.apple.com/de/app/pasty-clipboard-manager/id6766716767?l=en-GB) — clipboard manager | iOS | SwiftUI |  ✅ Live |
 | [**NimbusDB**](https://apps.apple.com/de/app/nimbusdb/id6769177806?l=en-GB&mt=12) — Database manager including CloudKit | macOS | SwiftUI |  ✅ Live  |
